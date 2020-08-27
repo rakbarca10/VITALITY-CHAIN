@@ -2,32 +2,20 @@
                                                      
                                                     SWASTHYA MITRA
 
-The project aims to use blockchain technology to create a user-focused electronic health
-record whilst maintaining a single true version of the user’s data. Swasthya mitra is a
-decentralised platform that enables secure, fast and transparent exchange and usage of
-medical data.
-Swasthya mitra will enable users to give conditional access to different healthcare agents
-such as doctors, hospitals, laboratories, pharmacists and insurers to interact as they see fit.
-Each interaction with their medical data is auditable, transparent and secure, and will be
-recorded as a transaction on swasthya mitra distributed ledger. During this process, the
-patient’s privacy is protected at all times. Swasthya mitra  is built on the permission-based
-Hyperledger Fabric architecture which allows varying access levels; users control who can
-view their records, how much they see and for what length of time. By empowering users,
-we can build the future of healthcare together. Swasthya mitra  will be a platform for other
-digital health applications to develop on; users will be able to sign for these applications
-and services which are powered by their health data and secured by smart contracts.
+The Project aims to utilize blockchain innovation to make a client centered electronic wellbeing 
+record while keeping up a solitary genuine form of the client's information. This is a 
+decentralized stage that empowers secure, quick and straightforward trade and utilization of 
+clinical information. It will empower clients to give restrictive admittance to various human services specialists 
+for example, specialists, emergency clinics, research centers, drug specialists and back up plans to cooperate as they see fit. 
+Every collaboration with their clinical information is auditable, straightforward and secure, and will be 
+recorded as an exchange on its dispersed record. During this cycle, the patient's security is ensured consistently. This project is based on the authorization based Hyperledger Fabric engineering which permits changing access levels; clients control who can see their records, the amount they see and for what period of time. By enabling clients, we can fabricate the eventual fate of social insurance together. This project will be a stage for other 
+computerized wellbeing applications to create on; clients will have the option to finish paperwork for these applications also, administrations which are fueled by their wellbeing information and made sure about by shrewd agreements.
                    # VITALITY-Chain Solution
 Swasthya mitra  ​: The Healthcare of Tomorrow
 
-● Dual Blockchain: Swasthya Mitra is built using a dual blockchain structure. The first
-blockchain controls access to health records and is built using Hyperledger Fabric.
-The second blockchain is powered by an ERC20 token on Ethereum and underlies
-all the applications and services for our platform.
-● The Hyperledger blockchain network is permission-based and requires users to sign
-up to use it. Permissioning on the network is controlled using Hyperledger modelling
-and access control languages. Hyperledger Fabric is a platform for distributed ledger
-solutions underpinned by a modular architecture delivering high degrees of
-confidentiality, resilience, flexibility and scalability.
+● Dual Blockchain: It is assembled utilizing a double blockchain structure. The first blockchain controls admittance to wellbeing records and is manufactured utilizing Hyperledger Fabric. 
+The second blockchain is fueled by an ERC20 token on Ethereum and underlies all the applications and administrations for our foundation.
+● The Hyperledger blockchain organize is consent based and expects clients to sign up to utilize it. Permissioning on the system is controlled utilizing Hyperledger demonstrating also, access control dialects. Hyperledger Fabric is a stage for conveyed record arrangements supported by a secluded design conveying high degrees of secrecy, versatility, adaptability and versatility.
 Working of the Network
 Participants Involved
 1. Practitioner
@@ -45,17 +33,11 @@ i. Amount of tobacco consumed daily
 ii. Alcohol consumed weekly
 iii. Weekly exercise
 f. Ability to integrate IoT data into EHR
-Encryption Scheme
-To ensure privacy, health records are encrypted using symmetric key cryptography. The
-record will be encrypted and stored in a data store within the appropriate regulatory
-jurisdiction. The symmetric key will be encrypted with the public key of a 2048-bit RSA key
-pair.
-Transactions
-Any interactions with health records are recorded as transactions on the network. To
-ensure privacy, health records are encrypted using symmetric key cryptography.
-Transactions are viewable only to the participants associated with the transaction.
-Every patient and practitioner would have its own asset which could only be accessed by
-the individual himself.
+Encryption Scheme 
+To guarantee protection, wellbeing records are encoded utilizing symmetric key cryptography. The record will be scrambled and put away in an information store inside the fitting administrative locale. The symmetric key will be encoded with the open key of a 2048-piece RSA key pair. 
+Exchanges 
+Any associations with wellbeing records are recorded as exchanges on the system. To guarantee security, wellbeing records are encoded utilizing symmetric key cryptography. 
+Exchanges are visible just to the members related with the exchange. Each patient and professional would have its own advantage which must be gotten to by the individual himself.
 There would be 3 types of transactions:
 1. Patient Granting Access
 2. Patient Revoking Access
@@ -82,19 +64,7 @@ Patient’s EHR.
 ● Practitioner B’s ID is added to Patient A’s authorised asset
 ● Patient A’s ID is added to Practitioner B’s authorised asset
 
-We plan to build a common platform accessible to citizens, hospitals and the
-government. Under this, there would be a digital Health Card for each and every citizen
-of Chhattisgarh. Health Card will be unique to each individual as it would be based on
-Aadhar​ Identity. The government can use it to design better health schemes in
-effective manner. As the Govt, would get the real time data of health condition.
-A web app​ that allows the (i) citizen to view his organised medical history, prescription,
-test results, ongoing treatments and medications (ii) the doctors to edit their treatment
-history and add prescriptions, medications, referrals, tests and results and view their
-patient's’ history. (iii) The government to view the analysis and schematics (past,
-present and predictions) of a region, to help them identify problem areas and launch
-successful schemes and programmes.
-
-1. BENEFITS FOR GOVERNMENT
+1. BENEFITS
 1.1 Data Science : Using the health data of every person , we would provide healthcare
 inferences to the government.Government can use it to design better health schemes
 in effective manner. Area specific schemes
@@ -127,38 +97,11 @@ doctor to better predict the disease.
 
 # A Better System
 ● User Control
-  ○ In the current healthcare system, patients have their health information
-spread over multiple systems, hospitals, networks and potentially countries.
-There are multiple fragmented records from the same patient, held at
-different institutions all with their own snapshot of the patient’s health at the
-point of their interaction with them, such as blood tests, imaging and clinic
-letters. Swasthya Mitra will chronologically arrange all of these records and
-filter them into the specific categories above to aid data handling. Such a
-categorisation would make the records more accessible and understandable
-for patients and it will also facilitate researchers in searching for the
-information relevant to them
-
-● Data Security
-  ○ The Swasthya Mitra system uses a double encryption mechanism on a
-closed, permission-based blockchain. The security of health records is
-secured beyond any centralised data system currently in use. Patient data is
-not accessible directly on the blockchain. The blockchain acts as a pointer to
-where patient data is held in an encrypted format, meaning that anyone
-attempting to intercept patient data will be unable to with the ease that is
-required to access data existing in any central location.
+  ○ In the current human services framework, patients have their wellbeing data spread over various frameworks, clinics, systems and conceivably nations. There are various divided records from a similar patient, held at various establishments all with their own depiction of the patient's wellbeing at the purpose of their communication with them, for example, blood tests, imaging and facility letters. The undertaking will sequentially mastermind these records and channel them into the particular classifications above to help information taking care of. Such a categorisation would make the records more available and reasonable for patients and it will likewise encourage scientists in looking for the 
+data applicable to them
 
 ● Clinical Communication
-  ○ Along with increased access to emergency information, Swasthya Mitra
-allows clinicians to communicate with each other with ease. When an
-authorised healthcare professional updates a patient health record, the
-system will update that record on Swasthya Mitra . Any clinician with
-authorised access to that record will see the update in real time. As health
-records are updated via Swasthya Mitra for all authorised parties, there is no
-need for patient data to be manually transferred from system to system.
-Swasthya Mitra will be usable in any browser on any computer. As a result,
-any doctor with a browser and an internet connection will be able to access
-the users’ documents shared with them. Issues currently associated with
-interoperability are resolved this way and costs that are associated with the
-transportation of notes currently undertaken by junior clinicians or
-administrative staff are cut down on.
+  ○ Alongside expanded admittance to crisis data, The project permits clinicians to speak effortlessly. At the point when an approved medicinal services proficient updates a patient wellbeing record, the framework will refresh that record on the page . Any clinician with approved admittance to that record will see the update continuously. As wellbeing records are refreshed by means of Swasthya Mitra for every approved gathering, there is no requirement for persistent information to be physically moved from framework to framework. The project will be usable in any program on any PC. Subsequently, any specialist with a program and a web association will have the option to get to the clients' reports imparted to them. Issues as of now connected with interoperability are settled thusly and costs that are related with the transportation of notes right now embraced by junior clinicians or 
+regulatory staff are eliminated.
 
+**ALL CREDITS TO RESPECTIVE OWNERS IF INTENDED
